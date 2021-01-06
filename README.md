@@ -9,4 +9,5 @@ Sou José Torquato, desenvolvedor Back-end, com experiência somente caseira em 
 - 🌱 Atualmente, estou aprendendo Python, Django e API's
 - ⚙️ Eu uso diariamente: `.python`, `.html`, `.css`, `.js`.
 - 🎓 Cursando Análise e Desenvolvimento de Sistemas na UniRitter
-- 📚 Cursando alguns cursos na Udemy
+- 📚 Conquistas: Aprovado para uma bolsa de estudos no programa Desenvolve
+  do Grupo Boticário entre mais de 8000 participantes fui um dos 130 escolhido.
