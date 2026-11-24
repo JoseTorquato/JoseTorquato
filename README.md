@@ -39,7 +39,7 @@ pip install "fiscal-mcp[xsd]" && fiscal-mcp validar nota.xml
 ### ⚡ [django-dev-insights](https://github.com/JoseTorquato/django-dev-insights)
 [![PyPI](https://img.shields.io/pypi/v/django-dev-insights?color=0C4B33&label=pypi)](https://pypi.org/project/django-dev-insights/)
 
-**Diagnóstico de performance para Django, a cada request.** Mostra queries duplicadas, N+1, queries lentas e tempo de template no console, em JSON ou num painel HTML. Em projetos reais, levou páginas de **28s → 1,8s** e de **8s → 0,3s**.
+**Diagnóstico de performance para Django, a cada request.** Mostra queries duplicadas, queries lentas e tempo de template no console, em JSON ou num painel HTML. Em projetos reais, levou páginas de **28s → 1,8s** e de **8s → 0,3s**.
 
 ```bash
 pip install django-dev-insights
@@ -71,7 +71,7 @@ pip install django-dev-insights
 **Open source:**
 - **[fiscal-mcp](https://github.com/JoseTorquato/fiscal-mcp)**: Brazilian invoices (NF-e/NFS-e) as an agent tool. Offline validation (official XSD, tax rules including IBS/CBS, totals, access key) plus an MCP server. 289 tests.
 - **[cilada](https://github.com/JoseTorquato/cilada)**: Brazilian-Portuguese adversarial suite for customer-service AI agents. 23 attacks (fake Pix receipts, tampered boletos, consumer-law traps), with an HTML report and CI gating.
-- **[django-dev-insights](https://github.com/JoseTorquato/django-dev-insights)**: per-request performance diagnostics for Django (duplicate queries, N+1, slow queries, template timing).
+- **[django-dev-insights](https://github.com/JoseTorquato/django-dev-insights)**: per-request performance diagnostics for Django (duplicate queries, slow queries, template timing).
 
 **Stack:** Python, Django, FastAPI, PostgreSQL, LLMs, RAG, MCP, GCP, Terraform, Docker, plus Node.js/TypeScript, RabbitMQ and AWS.
 
